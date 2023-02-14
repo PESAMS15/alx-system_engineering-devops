@@ -1,0 +1,2 @@
+#!lbin/bash
+tr "Ac" "Ze"
